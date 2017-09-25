@@ -1,0 +1,148 @@
+body
+	{
+	background:#0f3f63;
+	font-family: 'Montserrat', sans-serif;
+	
+	}
+
+header, footer
+	{
+	background:#257fc2;
+	padding:0 10%;
+	}
+header {
+	display: -webkit-inline-box;
+	width:100%;
+font-family: 'Montserrat', sans-serif;
+	}
+li {
+	display:inline-block;
+	padding:0 10px;
+}
+nav {
+	padding: 2% 10px;
+	width:100%;
+	}
+h1
+	{
+		color:#FFF;
+		text-align: center;
+		font-family: 'Montserrat', sans-serif;
+
+	}
+p
+	{
+		color:#257fc2;
+		text-align: center;
+		font-family: 'Montserrat', sans-serif;
+
+	}
+.Intro {
+	margin-top: 10%;
+	margin-left:10%;
+	margin-right: 10%;
+}
+div.Intro p {
+	padding-bottom:10%;
+}
+
+.contact-us, Services {
+	margin: 10% 10%;
+}
+.Call
+{
+	padding:2.5% 10%;
+	margin:auto;
+	background:#257fc2;
+	}
+h2 {
+		color: #FFF;
+		font-size:1.5em;
+	}
+h3 {
+	color:#FFF;
+}
+.call-element {
+	display: inline-block;
+}
+.Testimonial
+	{
+		padding: 5% 10%;
+		background:#257fc2;
+	}
+.quote 
+{
+	color:#0d3a5c;
+	font-size:12em;
+	float:left;
+	margin: 5% 5%;
+}
+.test
+{
+	text-align:left;
+	color:#FFF;
+}
+.author
+{
+	color:#e6b421;
+	display:inline;
+	font-size:0.5em;
+}
+
+
+.ob {
+	border-radius:5%;
+	background-color:#e6b41d;
+}
+.nav-link {
+	color: #FFF;
+	text-transform: uppercase;
+}
+.Services {
+	margin-left:10%;
+	margin-right: 10%;
+	padding:10% 0;
+	}
+.service {
+	display:inline-block;
+	padding-left:2%;
+	padding-right:2%;
+}
+div.Services p {
+	color:#257fc2; 
+	padding-bottom:10%;
+	}
+div.service p {
+	color:#879fb1; 
+	padding-bottom:10%;
+	}	
+
+
+div.contact-us p{
+	padding-bottom:10%;
+}
+
+
+form {
+	width:fit-content;
+	margin:auto;
+}
+
+.send {
+	margin:0 35%;
+}
+.menu {
+	float:right;
+}
+footer {
+	padding: 5% 10%;
+}
+footer p {
+color:#FFF;
+float:left;
+display:inline;
+}
+.aac {
+	display:inline;
+	float:right;
+}
